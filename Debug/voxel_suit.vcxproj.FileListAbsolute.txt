@@ -1,2 +1,0 @@
-D:\Game Dev\voxel_suit\Debug\voxel_suit.exe
-D:\Game Dev\voxel_suit\Debug\voxel_suit.pdb
